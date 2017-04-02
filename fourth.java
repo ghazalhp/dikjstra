@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class fourth {
 ///salaaaam
+////chetoriii
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt(), e = in.nextInt();
